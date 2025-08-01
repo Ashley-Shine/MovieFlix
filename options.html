@@ -1,0 +1,43 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MoodFlix</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="script.js"></script>
+
+</head>
+<body>
+
+  <h1>🎬 MoodFlix</h1>
+
+  <div class="filters">
+    <label>Mood:</label>
+    <select id="moodSelect">
+      <option>Emotional</option>
+      <option>Sci-Fi</option>
+      <option>Comedy</option>
+      <option>Thriller</option>
+      <option>Romantic</option>
+    </select>
+
+    <label>Language:</label>
+    <select id="languageSelect">
+      <option>English</option>
+      <option>Hindi</option>
+      <option>Malayalam</option>
+    </select>
+
+    <label>Year Range:</label>
+    <input type="number" id="fromYear" value="2000" />
+    to
+    <input type="number" id="toYear" value="2024" />
+
+    <button onclick="suggestMovies()">Suggest Movies</button>
+  </div>
+
+  <div id="results" class="movie-list"></div>
+
+</body>
+</html>
