@@ -89,24 +89,24 @@ export const movies = [
   { title: "Charlie", year: 2015, genre: "Horror", language: "Malayalam" },
   { title: "Thattathin Marayathu", year: 2012, genre: "Horror", language: "Malayalam" },
   { title: "Anarkali", year: 2015, genre: "Horror", language: "Malayalam" },
-  { title: "Uyare", year: 2019, genre: "Emotional", language: "Malayalam" },
-  { title: "Kumbalangi Nights", year: 2019, genre: "Emotional", language: "Malayalam" },
-  { title: "Take Off", year: 2017, genre: "Emotional", language: "Malayalam" },
+  { title: "Uyare", year: 2019, genre: "Comedy", language: "Malayalam" },
+  { title: "Kumbalangi Nights", year: 2019, genre: "Comedy", language: "Malayalam" },
+  { title: "Take Off", year: 2017, genre: "Comedy", language: "Malayalam" },
 
   // Malayalam Sci-Fi
   { title: "Red Rain", year: 2013, genre: "Sci-Fi", language: "Malayalam" },
   { title: "9 (Nine)", year: 2019, genre: "Sci-Fi", language: "Malayalam" },
 
   // Malayalam Horror
-  { title: "Ezra", year: 2017, genre: "Horror", language: "Malayalam" },
+  { title: "Ezra", year: 2017, genre: "Romantic", language: "Malayalam" },
   { title: "Bhoothakaalam", year: 2022, genre: "Horror", language: "Malayalam" },
 
   // Malayalam Comedy
-  { title: "Meesa Madhavan", year: 2002, genre: "Comedy", language: "Malayalam" },
-  { title: "Punjabi House", year: 1998, genre: "Comedy", language: "Malayalam" },
-  { title: "Kilukkam", year: 1995, genre: "Comedy", language: "Malayalam" },
-  { title: "Kalyanaraman", year: 2002, genre: "Comedy", language: "Malayalam" },
-  { title: "CID Moosa", year: 2003, genre: "Comedy", language: "Malayalam" },
+  { title: "Meesa Madhavan", year: 2002, genre: "Thriller", language: "Malayalam" },
+  { title: "Punjabi House", year: 1998, genre: "Thriller", language: "Malayalam" },
+  { title: "Kilukkam", year: 1995, genre: "Thriller", language: "Malayalam" },
+  { title: "Kalyanaraman", year: 2002, genre: "Thrller", language: "Malayalam" },
+  { title: "CID Moosa", year: 2003, genre: "Thriller", language: "Malayalam" },
 
   // Thriller
   { title: "Seven", year: 1995, genre: "Thriller", language: "English" },
