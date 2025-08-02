@@ -21,7 +21,6 @@ HTML
 CSS
 JavaScript
 
-
 Project Documentation:
 For Software:
 
@@ -34,12 +33,9 @@ Ths is the second page and the mai page of the website.It will suggest he movie 
 It displays the output of horror malayalam movies.
 
 Project Url:https://movie-flix-hdgc.vercel.app/
+Project Demo:https://drive.google.com/file/d/1-FaBdsMmexPSF_gjU7RmdxC9ecV496pJ/view?usp=sharing
 
 
-
-Project Demo
-Video
-[Add your demo video link here] Explain what the video demonstrates
 
 made with ❤️ at TinkerHub Useless Projects
 
