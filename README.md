@@ -4,16 +4,16 @@ Team Members
 Team Lead: Ashley P - Model Enginering College
 Member 2: Faiza Mujeeb - Model Engineering College
 
-Project Description
+Project Description:
 This website is designed for movie lovers. Based on user-selected interests and the year of release, it suggests movies accordingly. The fun twist? If you select horror, it might show you a romantic film; choose thriller, and you could get a comedy—intentionally mismatched for a playful experience!
 
-The Problem (that doesn't exist)
+The Problem (that doesn't exist):
 Suggest movies not accoring to their wishes.Annoys people.
 
-[How are you solving it? Keep it fun!] 
+[How are you solving it? Keep it fun!] :
  To annoy the user, the site intentionally shows mismatched movie suggestions. For example, if they select horror, it might display romantic comedies instead.
 
-Technical Details
+Technical Details:
 Technologies/Components Used
 For Software:
 
@@ -22,10 +22,10 @@ CSS
 JavaScript
 
 
-Project Documentation
+Project Documentation:
 For Software:
 
-Screenshots (Add at least 3)
+Screenshots (Add at least 3):
 <img width="960" height="460" alt="Firstpage" src="https://github.com/user-attachments/assets/278bb2ba-f389-4609-ba1c-8d36c7cf4803" />
 It contains the first page of the website. It contains a get started button which willlead to the next page.A slider containing movie poster also  included.
 <img width="957" height="447" alt="secondpage" src="https://github.com/user-attachments/assets/4dd17ae5-dc21-4075-967a-77f02bc7111e" />
