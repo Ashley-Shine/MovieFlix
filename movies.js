@@ -83,7 +83,7 @@ export const movies = [
   { title: "Pati Patni Aur Woh", year: 2019, genre: "Comedy", language: "Hindi" },
 
   // Malayalam Emotional & Horror
-  { title: "Manichitrathazhu", year: 1995, genre: "Emotional", language: "Malayalam" },
+  { title: "Manichitrathazhu", year: 1995, genre: "Comedy", language: "Malayalam" },
   { title: "Ennu Ninte Moideen", year: 2015, genre: "Horror", language: "Malayalam" },
   { title: "Premam", year: 2015, genre: "Horror", language: "Malayalam" },
   { title: "Charlie", year: 2015, genre: "Horror", language: "Malayalam" },
